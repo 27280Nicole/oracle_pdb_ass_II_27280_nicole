@@ -2,10 +2,10 @@
 # Oracle Pluggable Database Assignment II
 
 ## Student Information
- .**Name:** Nicole Umutoniwase
- .**Student ID:** 27280
- .**Course:** INSY 8311 - Database Development with PL/SQL
- .**Assignment:**  Oracle Pluggable Databases(PDB) Management
+ -**Name:** Nicole Umutoniwase
+ -**Student ID:** 27280
+ -**Course:** INSY 8311 - Database Development with PL/SQL
+ -**Assignment:**  Oracle Pluggable Databases(PDB) Management
 
 
 ## Repository Link
